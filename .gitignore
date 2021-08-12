@@ -1,2 +1,5 @@
 node_modules
 open-music-api-webserver.pem
+OpenMusic API V1 Test
+.env
+.prod.env
